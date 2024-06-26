@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWT_Automation", "SWT_Automation\SWT_Automation.csproj", "{44120504-5F67-4C87-AB13-6FF4A195DE90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44120504-5F67-4C87-AB13-6FF4A195DE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44120504-5F67-4C87-AB13-6FF4A195DE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44120504-5F67-4C87-AB13-6FF4A195DE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44120504-5F67-4C87-AB13-6FF4A195DE90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47FF985A-F7A0-4E86-9AE9-358E7419B5B9}
+	EndGlobalSection
+EndGlobal
